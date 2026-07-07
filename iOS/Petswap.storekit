@@ -1,0 +1,29 @@
+{
+  "identifier" : "petswap",
+  "nonRenewingSubscriptions" : [],
+  "products" : [
+    {
+      "displayPrice" : "3.99",
+      "familyShareable" : false,
+      "internalID" : "petswap_pro_unlock",
+      "localizations" : [
+        {
+          "description" : "Foster history export to hand off to adopters or rescues",
+          "displayName" : "Petswap Pro",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "petswap_pro_unlock",
+      "referenceName" : "Petswap Pro Unlock",
+      "type" : "NonConsumable"
+    }
+  ],
+  "settings" : {
+    "_askToBuyEnabled" : false
+  },
+  "subscriptionGroups" : [],
+  "version" : {
+    "major" : 3,
+    "minor" : 0
+  }
+}
